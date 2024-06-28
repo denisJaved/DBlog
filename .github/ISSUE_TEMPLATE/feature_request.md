@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-‼️ USE DISCUSSIONS TO REQUEST FEATURES! YOU CAN USE THIS TEMPLATE TO DO IT
+‼️ USE https://denisjaved.github.io/discord TO REQUEST FEATURES! YOU CAN USE THIS TEMPLATE TO DO IT
 
 **Is feature realted to other issues or bugs**
 It's pretty self-explainatory

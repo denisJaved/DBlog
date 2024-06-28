@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-‼️ USE DISCUSSIONS TO ASK QUESTIONS!
+‼️ USE https://denisjaved.github.io/discord TO ASK QUESTIONS!
