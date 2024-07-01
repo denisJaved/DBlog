@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/denisJaved/DBlog)
+
 # Hi!
 `Do you want to start your blog? And you don't have any kind of hosting.`
 
